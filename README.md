@@ -1,2 +1,0 @@
-# manpreet
-portfolio 
